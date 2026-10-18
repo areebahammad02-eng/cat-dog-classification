@@ -1,0 +1,8 @@
+{
+    "Project": "Cat vs Dog Classification",
+    "Training_Images": 2000,
+    "Validation_Images": 1000,
+    "Correct_Predictions": 984,
+    "Incorrect_Predictions": 16,
+    "Validation_Accuracy_Percent": 98.4
+}
